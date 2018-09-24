@@ -1,0 +1,4 @@
+C:\Users\Curtis\Desktop\RTSGame_CurtisBetz_17610269\RTSGame\RTSGame\obj\Debug\RTSGame.Form1.resources
+C:\Users\Curtis\Desktop\RTSGame_CurtisBetz_17610269\RTSGame\RTSGame\obj\Debug\RTSGame.Properties.Resources.resources
+C:\Users\Curtis\Desktop\RTSGame_CurtisBetz_17610269\RTSGame\RTSGame\obj\Debug\RTSGame.csproj.GenerateResource.Cache
+C:\Users\Curtis\Desktop\RTSGame_CurtisBetz_17610269\RTSGame\RTSGame\obj\Debug\RTSGame.csproj.CoreCompileInputs.cache
